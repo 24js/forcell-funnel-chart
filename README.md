@@ -1,1 +1,1 @@
-# Funnel chart for EspoCRM
+# Funnel chart for ForcellCRM

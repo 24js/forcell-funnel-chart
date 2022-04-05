@@ -1,9 +1,9 @@
 
-var EspoFunnel = {};
+var ForcellFunnel = {};
 
-(function (EspoFunnel) {
+(function (ForcellFunnel) {
 
-    EspoFunnel.Funnel = class Funnel {
+    ForcellFunnel.Funnel = class Funnel {
 
         constructor (container, params, dataList) {
             this.params = Object.assign({}, params || {});
@@ -237,4 +237,4 @@ var EspoFunnel = {};
         }
     }
 
-}).call(this, EspoFunnel);
+}).call(this, ForcellFunnel);
